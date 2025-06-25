@@ -37,4 +37,17 @@ sqlite3
 
 # Utilities
 python-dotenv>=1.0.0
-sympy>=1.12 
+sympy>=1.12
+
+# Performance Monitoring
+psutil>=5.9.0
+
+# Intel OneAPI Extensions (Optional)
+intel-extension-for-pytorch
+sklearnex
+
+# Data Visualization  
+plotly>=5.17.0
+
+# WebSocket for Real-time Communication
+websocket-client>=1.6.0 
