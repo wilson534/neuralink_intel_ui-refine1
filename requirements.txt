@@ -1,0 +1,40 @@
+# Core Dependencies
+streamlit>=1.28.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Intel OpenVINO
+openvino>=2023.3.0
+optimum[openvino]>=1.14.0
+
+# AI/ML Libraries
+transformers>=4.35.0
+whisper>=20231117
+openai-whisper>=20231117
+
+# Audio Processing
+sounddevice>=0.4.6
+scipy>=1.11.0
+librosa>=0.10.1
+numpy>=1.24.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# API Clients
+requests>=2.31.0
+openai>=1.3.0
+cozepy>=0.7.0
+
+# Data Science
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Database
+sqlite3
+
+# Utilities
+python-dotenv>=1.0.0
+sympy>=1.12 
